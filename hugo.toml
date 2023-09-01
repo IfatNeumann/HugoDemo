@@ -1,5 +1,5 @@
 title = "Cup of Code"
-baseURL = ''
+baseURL = 'https://ifatneumann.github.io'
 
 # This is what goes in <html lang="">
 languageCode = 'en-us'
